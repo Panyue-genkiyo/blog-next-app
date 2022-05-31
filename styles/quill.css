@@ -1,0 +1,17 @@
+.quill-night .ql-picker-label::before,
+.quill-night .ql-picker-label .ql-stroke {
+    color: #fdfdfd !important;
+}
+
+.quill-night  path,
+.quill-night  svg,
+.quill-night polygon,
+.quill-night polyline,
+.quill-night .ql-stroke,
+.quill-night .ql-fill{
+    stroke: #fdfdfd !important;
+}
+
+.quill-night .ql-picker .ql-picker-options .ql-stroke{
+    stroke: #000 !important;
+}

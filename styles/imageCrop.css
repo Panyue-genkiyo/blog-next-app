@@ -1,0 +1,35 @@
+.cropper {
+    position: relative;
+    height: 20vh;
+}
+
+.slider{
+    margin: 1rem 0
+}
+
+.crop-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewer {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.viewer .btn-group{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.output {
+    position: relative;
+    width: 200px;
+    overflow: hidden;
+    box-shadow: 0 0 32px rgba(0, 0, 0, 0.3);
+}

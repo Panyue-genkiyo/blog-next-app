@@ -1,0 +1,35 @@
+.create_blog label{
+    font-weight: bold;
+    margin-bottom: .5rem;
+}
+
+.create-form-night input,
+.create-form-night textarea,
+.create-form-night input[type='file'],
+.create-form-night select{
+    background: transparent !important;
+    color: #fff !important;
+}
+
+.create-form-night input:focus{
+    background: none;
+    outline: none;
+    box-shadow: none;
+}
+
+
+.create-blog-night button.btn{
+    background: #5352ed !important;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.create-blog-night label,
+.create-blog-night .card-horiz-title{
+    color: #34ace0 !important;
+}
+
+.create-blog-night small,
+.create-blog-night small span{
+    color: #fdfdfd !important;
+}

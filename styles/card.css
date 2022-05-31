@@ -1,0 +1,36 @@
+.card-night{
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+.card-night a{
+  color: skyblue !important;
+}
+
+.card-night small{
+  color: #16a085 !important;
+}
+
+.card-personal {
+  box-shadow:7px 7px 9px #F2EBEB;
+  border:none;
+}
+
+.card-personal a>span{
+  width: 100% !important;
+}
+
+
+.card-night{
+  box-shadow:7px 7px 9px #2c3e50;
+  border:none;
+}
+
+
+@media (max-width: 767px) {
+  .card-personal-flex {
+    /*flex-direction: row !important;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+  }
+}

@@ -1,0 +1,10 @@
+.notification_not_found{
+   min-height: 30vh;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #c0c0c0;
+   font-size: 1.2em;
+   font-weight: bold;
+}
